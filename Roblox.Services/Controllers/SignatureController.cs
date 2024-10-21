@@ -35,7 +35,7 @@ namespace Roblox.Services
         {
             if (data is string)
             {
-                string rbxsigFormat = "%{0}%{1}"; // 0 is the sig, 1 is the script.
+                string rbxsigFormat = "--rbxsig%{0}%{1}"; // 0 is the sig, 1 is the script.
                 byte[] sig = rsaCSP.SignData(Encoding.Default.GetBytes(data), sha1);
 
                 string rbxsig = string.Format(rbxsigFormat, Convert.ToBase64String(sig), data); // the sig is in bytes, so it should be converted to base64

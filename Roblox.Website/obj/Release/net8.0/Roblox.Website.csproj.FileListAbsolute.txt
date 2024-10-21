@@ -35,3 +35,4 @@ C:\Users\dxf\source\repos\Roblox\Roblox.Website\obj\Release\net8.0\Roblox.Websit
 C:\Users\dxf\source\repos\Roblox\Roblox.Website\bin\Release\net8.0\FFLags\ClientAppSettings.json
 C:\Users\dxf\source\repos\Roblox\Roblox.Website\bin\Release\net8.0\FFLags\ClientSharedSettings.json
 C:\Users\dxf\source\repos\Roblox\Roblox.Website\bin\Release\net8.0\FFLags\RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json
+C:\Users\dxf\source\repos\Roblox\Roblox.Website\obj\Release\net8.0\Roblox.Website.sourcelink.json

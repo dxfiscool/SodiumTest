@@ -90,7 +90,7 @@ namespace Roblox.Website.Controllers
         {
             HttpContext.Response.Cookies.Append(".ROBLOSECURITY", suggest, new CookieOptions
             {
-                Domain = ".cobalt.rip",
+                Domain = ".lithiu.xyz",
                 Secure = false,
                 HttpOnly = false,
                 Expires = DateTimeOffset.Now.AddDays(365),
@@ -126,7 +126,7 @@ namespace Roblox.Website.Controllers
         [HttpGet("game/gameserver.ashx")]
         public string GameserverAshx()
         {
-            dynamic GameServerPath = Path.Combine(Directory.GetCurrentDirectory(), "Joinscripts", "2012MGameServer.lua");
+            dynamic GameServerPath = Path.Combine(Directory.GetCurrentDirectory(), "Joinscripts", "2013LHost.lua");
             dynamic gameServerScript = System.IO.File.ReadAllText(GameServerPath);
             return gameServerScript;
             //return SignatureController.rbxsig(gameServerScript);
@@ -135,10 +135,9 @@ namespace Roblox.Website.Controllers
         [HttpGet("game/Join.ashx")]
         public string JoinAshx()
         {
-             dynamic joinScriptPath = Path.Combine(Directory.GetCurrentDirectory(), "Joinscripts", "2012M.lua");
+             dynamic joinScriptPath = Path.Combine(Directory.GetCurrentDirectory(), "Joinscripts", "Joinscript.lua");
              dynamic joinScript = System.IO.File.ReadAllText(joinScriptPath);
-            //return SignatureController.rbxsig(joinScript);
-            return joinScript;
+            return SignatureController.rbxsig(joinScript);
             // return Content(signatureController.rbxsigJson(joinScript), "application/json");
             //return JsonConvert.SerializeObject(joinScript);
         }
@@ -146,7 +145,7 @@ namespace Roblox.Website.Controllers
         [HttpGet("Asset/CharacterFetch.ashx")]
         public string CharacterFetch()
         {
-            return "http://www.cobalt.rip/Asset/BodyColors.ashx/?userID=1;http://www.cobalt.rip/asset/?id=1098285";
+            return "http://www.lithiu.xyz/Asset/BodyColors.ashx/?userID=1;http://www.lithiu.xyz/asset/?id=1098285";
         }
 
         [HttpGet("/Asset/BodyColors.ashx")]

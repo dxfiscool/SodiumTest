@@ -26,3 +26,4 @@ C:\Users\dxf\source\repos\Roblox\Roblox.Services\obj\Release\net8.0\ref\Roblox.S
 C:\Users\dxf\source\repos\Roblox\Roblox.Services\obj\Release\net8.0\Roblox.Services.csproj.AssemblyReference.cache
 C:\Users\dxf\source\repos\Roblox\Roblox.Services\bin\Release\net8.0\Newtonsoft.Json.dll
 C:\Users\dxf\source\repos\Roblox\Roblox.Services\obj\Release\net8.0\Roblox.S.AB33509F.Up2Date
+C:\Users\dxf\source\repos\Roblox\Roblox.Services\obj\Release\net8.0\Roblox.Services.sourcelink.json

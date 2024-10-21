@@ -14,8 +14,4 @@
     <ProjectReference Include="..\Roblox.Services\Roblox.Services.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Joinscripts\" />
-  </ItemGroup>
-
 </Project>
