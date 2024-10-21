@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dxf\\source\\repos\\Roblox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\controllers\\webcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\fflags\\clientappsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\fflags\\clientappsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\fflags\\rccservicekx3nmesj3rpegxprkgxxtywatavxlsz.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\fflags\\rccservicekx3nmesj3rpegxprkgxxtywatavxlsz.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\fflags\\clientsharedsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\fflags\\clientsharedsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\joinscripts\\2012mgameserver.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\joinscripts\\2012mgameserver.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\joinscripts\\2012m.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\joinscripts\\2012m.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\publickeyblob.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\publickeyblob.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.services\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|solutionrelative:roblox.services\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.services\\controllers\\signaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|solutionrelative:roblox.services\\controllers\\signaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.services\\logging\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815482D2-E25A-4A9B-BAE8-BE5BCD0D3494}|Roblox.Services\\Roblox.Services.csproj|solutionrelative:roblox.services\\logging\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\roblox.website.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\roblox.website.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|c:\\users\\dxf\\source\\repos\\roblox\\roblox.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522395B8-9CB1-47B5-B751-2AE6BA4A7E55}|Roblox.Website\\Roblox.Website.csproj|solutionrelative:roblox.website\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientSharedSettings.json",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\ClientSharedSettings.json",
+              "RelativeDocumentMoniker": "Roblox.Website\\FFLags\\ClientSharedSettings.json",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\ClientSharedSettings.json",
+              "RelativeToolTip": "Roblox.Website\\FFLags\\ClientSharedSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T08:51:44.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublicKeyBlob.txt",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\PublicKeyBlob.txt",
+              "RelativeDocumentMoniker": "Roblox.Website\\PublicKeyBlob.txt",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\PublicKeyBlob.txt",
+              "RelativeToolTip": "Roblox.Website\\PublicKeyBlob.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAADIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-25T19:17:04.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientAppSettings.json",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\ClientAppSettings.json",
+              "RelativeDocumentMoniker": "Roblox.Website\\FFLags\\ClientAppSettings.json",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\ClientAppSettings.json",
+              "RelativeToolTip": "Roblox.Website\\FFLags\\ClientAppSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T17:54:23.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2012MGameServer.lua",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Joinscripts\\2012MGameServer.lua",
+              "RelativeDocumentMoniker": "Roblox.Website\\Joinscripts\\2012MGameServer.lua",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Joinscripts\\2012MGameServer.lua",
+              "RelativeToolTip": "Roblox.Website\\Joinscripts\\2012MGameServer.lua",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T17:02:55.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2012M.lua",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Joinscripts\\2012M.lua",
+              "RelativeDocumentMoniker": "Roblox.Website\\Joinscripts\\2012M.lua",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Joinscripts\\2012M.lua",
+              "RelativeToolTip": "Roblox.Website\\Joinscripts\\2012M.lua",
+              "ViewState": "AQIAAEsBAAAAAAAAAAAgwGIBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T20:20:34.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Roblox.Website\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Roblox.Website\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:32:46.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Logging\\Log.cs",
+              "RelativeDocumentMoniker": "Roblox.Services\\Logging\\Log.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Logging\\Log.cs",
+              "RelativeToolTip": "Roblox.Services\\Logging\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:06:17.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignatureController.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Controllers\\SignatureController.cs",
+              "RelativeDocumentMoniker": "Roblox.Services\\Controllers\\SignatureController.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Controllers\\SignatureController.cs",
+              "RelativeToolTip": "Roblox.Services\\Controllers\\SignatureController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:31:31.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebController.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Controllers\\WebController.cs",
+              "RelativeDocumentMoniker": "Roblox.Website\\Controllers\\WebController.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Controllers\\WebController.cs",
+              "RelativeToolTip": "Roblox.Website\\Controllers\\WebController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAgwLEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:45:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "Roblox.Services\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Services\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "Roblox.Services\\Controllers\\AssetController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:57:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\appsettings.json",
+              "RelativeDocumentMoniker": "Roblox.Website\\appsettings.json",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\appsettings.json",
+              "RelativeToolTip": "Roblox.Website\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T18:47:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Roblox.Website\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\appsettings.Development.json",
+              "RelativeToolTip": "Roblox.Website\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T18:47:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Program.cs",
+              "RelativeDocumentMoniker": "Roblox.Website\\Program.cs",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Program.cs",
+              "RelativeToolTip": "Roblox.Website\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:44:38.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json",
+              "RelativeDocumentMoniker": "Roblox.Website\\FFLags\\RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\FFLags\\RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json",
+              "RelativeToolTip": "Roblox.Website\\FFLags\\RCCServiceKX3nmESj3RpEgXPrkgxxtywataVxLSz.json",
+              "ViewState": "AQIAAHcOAAAAAAAAAAAcwKMOAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T08:51:23.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Roblox.Website.http",
+              "DocumentMoniker": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Roblox.Website.http",
+              "RelativeDocumentMoniker": "Roblox.Website\\Roblox.Website.http",
+              "ToolTip": "C:\\Users\\dxf\\source\\repos\\Roblox\\Roblox.Website\\Roblox.Website.http",
+              "RelativeToolTip": "Roblox.Website\\Roblox.Website.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-25T18:44:56.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
